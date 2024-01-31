@@ -35,7 +35,7 @@ while (d <= 50) {
 
 
 //no 5//
-let total
+let total = 0
 let terbesar = 0
 let terkecil = 0
 let e = 1
@@ -52,7 +52,7 @@ while (e <=20) {
     }
     e++   
 }
-let rtrt = e / 2
+let rtrt = total / 20
 
 console.log("Bilangan terbesar:" + terbesar)
 console.log("Bilangan Terkecil:" + terkecil)
